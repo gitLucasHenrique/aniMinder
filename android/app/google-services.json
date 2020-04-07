@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623604946345",
+    "firebase_url": "https://tcc-animes.firebaseio.com",
+    "project_id": "tcc-animes",
+    "storage_bucket": "tcc-animes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623604946345:android:b7aeae9260675e1909a0b8",
+        "android_client_info": {
+          "package_name": "com.platypus.animinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623604946345-rir7s7gi0h9raq7298q0dv6dvjrtt8fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.platypus.animinder",
+            "certificate_hash": "8631bd40e2c61cfa1c2cc6197002876db985bb5d"
+          }
+        },
+        {
+          "client_id": "623604946345-c9mcam0fvic71g776dmvfgmo2eu5etha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfM1a6HxWir7ut4vUDkFirUsSNdUYH_Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623604946345-c9mcam0fvic71g776dmvfgmo2eu5etha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
